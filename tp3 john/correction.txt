@@ -1,0 +1,114 @@
+﻿Étudiant 1
+---------------
+Prénom et Nom: John-William Lebel
+Numéro de dossier (NI): 536888552
+Temps de réalisation: ~6h
+
+Étudiant 2
+---------------
+Prénom et Nom:
+Numéro de dossier (NI):
+Temps de réalisation: 
+
+
+****************************************************
+Classe Joueur (fichier joueur.py): /8
+****************************************************
+
+/1: Méthode nb_a_tirer
+    Commentaires:
+
+/0.5: Méthode position_est_valide
+    Commentaires:
+
+/1: Méthode position_est_vide
+    Commentaires:
+
+/2: Méthode ajouter_jeton
+    Commentaires:
+
+/1.5: Méthode retirer_jeton
+    Commentaires:
+
+/1: Méthode obtenir_jeton
+    Commentaires:
+
+/0.5: Méthode ajouter_points
+    Commentaires:
+
+/0.5: Méthode melanger_jetons
+    Commentaires:
+
+
+****************************************************
+Classe Case (fichier case.py): /7
+****************************************************
+
+/2: Méthode placer_jeton
+    Commentaires:
+
+/2: Méthode retirer_jeton
+    Commentaires:
+
+/1.5: Méthode valeur_jeton
+    Commentaires:
+
+/1.5: Méthode lettre_jeton
+    Commentaires:
+
+
+*****************************************************
+Classe Plateau (fichier plateau.py): /20
+*****************************************************
+
+/5: Méthode case_est_vide
+    Commentaires:
+
+/5: Méthode est_vide
+    Commentaires:
+
+/5: Méthode ajouter_jeton
+    Commentaires:
+
+/5: Méthode retirer_jeton
+    Commentaires:
+
+
+********************************************************
+Classe Scrabble (fichier scrabble.py): /24
+********************************************************
+
+/2: Méthode mot_permis
+    Commentaires:
+
+/4: Méthode determiner_gagnant
+    Commentaires:
+
+/2: Méthode partie_terminee
+    Commentaires:
+
+/4: Méthode joueur_suivant
+    Commentaires:
+
+/12: Méthode changer_jetons
+    Commentaires:
+
+
+******************************************
+Qualité du code: /6
+******************************************
+    Commentaires:
+
+
+
+Pénalités pour non-respect des consignes
+----------------------------------------
+
+
+
+Autres commentaires du correcteur
+---------------------------------
+
+
+
+Total: /65
